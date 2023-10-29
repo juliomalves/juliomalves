@@ -1,6 +1,6 @@
 # Hello, I'm Julio Alves 👋
 
-I'm a software engineer experienced in building web apps for all kinds of devices. I'm based in London, where I work as a Senior Front-end Engineer at ITV.
+I'm a software engineer experienced in building web apps for all kinds of devices. I'm based in London, where I work as a Lead Front-end Engineer at ITV.
 
 ## 🚀 About Me
 
